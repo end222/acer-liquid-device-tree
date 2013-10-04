@@ -24,3 +24,6 @@ persist.sys.usb.config=mass_storage,adb
 
 # Composition
 debug.composition.type=mdp
+
+# Improve Performance
+windowsmgr.max_events_per_sec=60
